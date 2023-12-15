@@ -1,6 +1,6 @@
 # assignments
 
-These assignments fall ino two types:
+These assignments fall into two types:
 
 * defined assignments, where requirements are quite specific and the goal is to
 build a solution.
